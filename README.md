@@ -6,7 +6,7 @@ In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
 
-## Minimum Viable Product
+## Minimum Viable Product.
 
 Pick any API, could be one of your past projects, and deploy it to `heroku`. Once deployed, send the URL to the TL for your group.
 
